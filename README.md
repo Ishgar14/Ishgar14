@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=Ishgar14)
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently working on side projects from college
 <!-- - 💬 Ask me about ... -->
 - 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on open source projects
+<!-- - 👯 I’m looking to collaborate on open source projects -->
 - 📫 Want to reach me? Mail me at rushikeshjyoti14@gmail.com
 
 ## Technologies Used
