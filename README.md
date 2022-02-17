@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on open source projects -->
 
 
-## Technologies Used
+## Technologies
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-white)
 ![Sql](https://img.shields.io/badge/MySql-DBMS-yellow)
 
-## Languages Used
+## Languages
 ![Python](https://img.shields.io/badge/Python-3.9-green)
 ![R](https://img.shields.io/badge/R-4.0.4-blue)
 ![Java](https://img.shields.io/badge/Java-12-orange)
