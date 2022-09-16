@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ![PowerBI](https://img.shields.io/badge/PowerBI-Reports-orange)
 
 ## Programming Languages
-![Python](https://img.shields.io/badge/Python-3.9-green)
+![Python](https://img.shields.io/badge/Python-3-green)
 ![R](https://img.shields.io/badge/R-4.0.4-blue)
-![Java](https://img.shields.io/badge/Java-12-orange)
+![Java](https://img.shields.io/badge/Java-8-orange)
 ![C](https://img.shields.io/badge/C-99-blue)
 ![C++](https://img.shields.io/badge/C++-14-blue)
 
