@@ -7,6 +7,11 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=Ishgar14)
 
+<!--Profile Views 
+
+![Ishgar](https://count.getloli.com/get/@Ishgar)
+-->
+
 - 📚 I’m interested in Machine Learning and Data Science
 - 🔭 I’m currently working on side projects from college
 
